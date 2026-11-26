@@ -85,7 +85,7 @@ http://localhost:8089
 
 ---
 
-# 5. Pl*n de Pruebas
+# 5. Plan de Pruebas
 
 ## Prueba de Carga
 
@@ -97,7 +97,7 @@ http://localhost:8089
 
 Objetivo:
 
-Verificar e* comportamiento normal del servido* bajo una carga concurrente modera*a.
+Verificar el comportamiento normal del servido* bajo una carga concurrente modera*a.
 
 ---
 
@@ -108,18 +108,18 @@ Conf*guración:
 - 50 usuarios
 - 100 usu*rios
 - 150 usuarios
-- 200 usuarios*- 250 usuarios
+- 200 usuarios- 250 usuarios
 
 Objetivo:
 
-Increme*tar progresivamente la carga hasta*detectar degradación de rendimient* o aparición de errores.
+Incrementar progresivamente la carga hasta*detectar degradación de rendimiente o aparición de errores.
 
 ---
 
 # 6* Resultados
 
 ## Tabla Comparativa
-*| Usuarios | Latencia Promedio (ms* | Latencia Máxima (ms) | Throughp*t (req/s) | Error Rate (%) |
+*| Usuarios | Latencia Promedio (ms* | Latencia Máxima (ms) | Throughpt (req/s) | Error Rate (%) |
 |----*------|-----------|-----------|---*-------|-----------|
 * 50 | | | | |
 | 100 | | | |*|
