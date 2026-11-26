@@ -60,7 +60,7 @@ El sistema consiste en:
 javac tcp\*.java
 ```
 
-## Ejecución del servid*r
+## Ejecución del servidor
 
 ```bash
 java tcp.ChatServer
